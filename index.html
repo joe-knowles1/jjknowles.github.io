@@ -8,17 +8,24 @@
     <h2>Writing</h2>
     <h3>Site in process of being built, slowly and not very surely</h3>
     <style>
-       header {
+       @import url('https://googleapis.com');
+        header {
         margin-bottom: 50px;
         border-bottom: 1px solid #eeeeee;
         padding-bottom: 20px;
         text-align: center;
+        .content-wrapper {
+        flex: 1 0 auto;
+}
 }
         body {
             background-color: #ffffff;
             color: #000000;
-            font-family: Arial, sans-serif;
-            margin: 60px;
+            font-family: 'Syne Mono', monospace;
+            margin: 0;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
         }
         h1 {
             font-size: 4em;
@@ -45,7 +52,11 @@
 </body>
     
     <!-- Footer-->
-    <footer class="bg-bottom text-center py-5">
+    <footer 
+        class="bg-bottom text-center py-5"
+        flex-shrink: 0;
+        font-size: 0.8rem;
+        padding: 15px;>
        <p>&copy; 2026 <a href="https://www.linkedin.com/in/joe-knowles-41a80a20/">JJ Knowles</a>. All rights reserved.</p>
     </footer>
     

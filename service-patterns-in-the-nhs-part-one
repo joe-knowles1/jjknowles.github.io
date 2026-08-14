@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -37,29 +36,31 @@
 
     <main>
         <div class="meta">Published on August 7, 2026 • 3 min read</div>
-        <h1>They both went hungry</h1>
-      <h2>An allegory</h2>
+        <h1>Service patters in the NHS</h1>
+      <h2>Part one</h2>
         
         <div class="content">
-            <p>Welcome to my attempt to document our work to date on service patterns in the NHS. Time is fast flowing and it’s going to be important to do this before we move onto our next step.
+            <p>Welcome to my attempt to document our work to date on service patterns in the NHS. Time is fast flowing and it’s going to be important to do this before we move onto our next step.</p>
 
-Making a start
-Over the years, there has been several attempts to get started with service patterns in the NHS, but these attempts — for whatever reasons — have not often gone far.
+            <p><b>Making a start</b></p>
+            
+            <p>Over the years, there has been several attempts to get started with service patterns in the NHS, but these attempts — for whatever reasons — have not often gone far.</p>
 
-Part of this is due to a question we continue to grapple with now: is it possible to do? And if it’s possible, is it worthwhile? The amount of work it would take to put together one pattern that works in multiple places is daunting, given the variety and sheer size of the NHS.
+<p>Part of this is due to a question we continue to grapple with now: is it possible to do? And if it’s possible, is it worthwhile? The amount of work it would take to put together one pattern that works in multiple places is daunting, given the variety and sheer size of the NHS.</p>
 
-In the last year, service patterns have got a renewed focus across the public sector. A cross-gov group was set up to talk about it, and various departments began sharing their work.
+<p>In the last year, service patterns have got a renewed focus across the public sector. A cross-gov group was set up to talk about it, and various departments began sharing their work.</p>
 
-That prompted renewed conversations in the NHS about whether we should be trying to create some of our own. I asked some questions in our design leads group (featuring design leads from across the NHS) and was paired with Tom Morgan, who had started doing some thinking in his area (electronic referrals) to see where we might take it.
+<p>That prompted renewed conversations in the NHS about whether we should be trying to create some of our own. I asked some questions in our design leads group (featuring design leads from across the NHS) and was paired with Tom Morgan, who had started doing some thinking in his area (electronic referrals) to see where we might take it.</p>
 
-Baby steps
-We spoke to several of the departments that had started on this journey, who were generous with their time and thoughts. We concluded a few things:
+<p><b>Baby steps</b></p>
 
-The best way to start would be small, getting together a pattern or two and stress-testing it
-Don’t go too deep too soon. I.e. don’t develop a pattern to the nth degree before working out whether the concept will work generally
-Keep the patterns you do try simple to start with and accept they will change frequently
-Try and define who the users of the patterns are and involve them where appropriate
-So now we had a sense of where to start, our next step was to get together..</p>
+<p>We spoke to several of the departments that had started on this journey, who were generous with their time and thoughts. We concluded a few things:</p>
+
+<p><ul>The best way to start would be small, getting together a pattern or two and stress-testing it</ul></p>
+<p><ul>Don’t go too deep too soon. I.e. don’t develop a pattern to the nth degree before working out whether the concept will work generally</ul></p>
+<p><ul>Keep the patterns you do try simple to start with and accept they will change frequently</ul></p>
+<p><ul>Try and define who the users of the patterns are and involve them where appropriate</ul></p>
+<p><ul>So now we had a sense of where to start, our next step was to get together..</ul></p>
 
           
         </div>

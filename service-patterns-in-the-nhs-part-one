@@ -1,0 +1,73 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>They both went hungry</title>
+    <style>
+        body {
+            background-color: #ffffff;
+            color: #111111;
+            font-family: 'Syne Mono', monospace;
+            max-width: 650px;
+            margin: 40px auto;
+            padding: 0 20px;
+            line-height: 1.7;
+        }
+        nav { margin-bottom: 40px;  font-family: 'Syne Mono', monospace; }
+        nav a { color: #666666; text-decoration: none; font-size: 14px; }
+        nav a:hover { text-decoration: underline; color: #111111; }
+        
+        .meta {
+            font-family: 'Syne Mono', monospace;
+            font-size: 13px;
+            color: #888888;
+            margin-bottom: 10px;
+        }
+        h1 { font-size: 36px; line-height: 1.2; margin-top: 0; }
+        .content p { margin-bottom: 25px; font-size: 18px; }
+    </style>
+</head>
+<body>
+
+    <nav>
+        <a href="index.html">← Home</a>
+    </nav>
+
+    <main>
+        <div class="meta">Published on August 7, 2026 • 3 min read</div>
+        <h1>They both went hungry</h1>
+      <h2>An allegory</h2>
+        
+        <div class="content">
+            <p>Welcome to my attempt to document our work to date on service patterns in the NHS. Time is fast flowing and it’s going to be important to do this before we move onto our next step.
+
+Making a start
+Over the years, there has been several attempts to get started with service patterns in the NHS, but these attempts — for whatever reasons — have not often gone far.
+
+Part of this is due to a question we continue to grapple with now: is it possible to do? And if it’s possible, is it worthwhile? The amount of work it would take to put together one pattern that works in multiple places is daunting, given the variety and sheer size of the NHS.
+
+In the last year, service patterns have got a renewed focus across the public sector. A cross-gov group was set up to talk about it, and various departments began sharing their work.
+
+That prompted renewed conversations in the NHS about whether we should be trying to create some of our own. I asked some questions in our design leads group (featuring design leads from across the NHS) and was paired with Tom Morgan, who had started doing some thinking in his area (electronic referrals) to see where we might take it.
+
+Baby steps
+We spoke to several of the departments that had started on this journey, who were generous with their time and thoughts. We concluded a few things:
+
+The best way to start would be small, getting together a pattern or two and stress-testing it
+Don’t go too deep too soon. I.e. don’t develop a pattern to the nth degree before working out whether the concept will work generally
+Keep the patterns you do try simple to start with and accept they will change frequently
+Try and define who the users of the patterns are and involve them where appropriate
+So now we had a sense of where to start, our next step was to get together..</p>
+
+          
+        </div>
+         <div style="height: 120px;"></div>
+    </main>
+
+</body>
+     <footer 
+       <p>&copy; 2026 <a href="https://www.linkedin.com/in/joe-knowles-41a80a20/">JJ Knowles</a>. All rights reserved.</p>
+    </footer>
+</html>
